@@ -1,0 +1,15 @@
+C:\Users\Pongo\source\repos\TP Modul 3 KPL REZA\TP Modul 3 KPL REZA\bin\Debug\net8.0\tpmodul3_2311104062.exe
+C:\Users\Pongo\source\repos\TP Modul 3 KPL REZA\TP Modul 3 KPL REZA\bin\Debug\net8.0\tpmodul3_2311104062.deps.json
+C:\Users\Pongo\source\repos\TP Modul 3 KPL REZA\TP Modul 3 KPL REZA\bin\Debug\net8.0\tpmodul3_2311104062.runtimeconfig.json
+C:\Users\Pongo\source\repos\TP Modul 3 KPL REZA\TP Modul 3 KPL REZA\bin\Debug\net8.0\tpmodul3_2311104062.dll
+C:\Users\Pongo\source\repos\TP Modul 3 KPL REZA\TP Modul 3 KPL REZA\bin\Debug\net8.0\tpmodul3_2311104062.pdb
+C:\Users\Pongo\source\repos\TP Modul 3 KPL REZA\TP Modul 3 KPL REZA\obj\Debug\net8.0\tpmodul3_2311104062.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pongo\source\repos\TP Modul 3 KPL REZA\TP Modul 3 KPL REZA\obj\Debug\net8.0\tpmodul3_2311104062.AssemblyInfoInputs.cache
+C:\Users\Pongo\source\repos\TP Modul 3 KPL REZA\TP Modul 3 KPL REZA\obj\Debug\net8.0\tpmodul3_2311104062.AssemblyInfo.cs
+C:\Users\Pongo\source\repos\TP Modul 3 KPL REZA\TP Modul 3 KPL REZA\obj\Debug\net8.0\tpmodul3_2311104062.csproj.CoreCompileInputs.cache
+C:\Users\Pongo\source\repos\TP Modul 3 KPL REZA\TP Modul 3 KPL REZA\obj\Debug\net8.0\tpmodul3_2311104062.sourcelink.json
+C:\Users\Pongo\source\repos\TP Modul 3 KPL REZA\TP Modul 3 KPL REZA\obj\Debug\net8.0\tpmodul3_2311104062.dll
+C:\Users\Pongo\source\repos\TP Modul 3 KPL REZA\TP Modul 3 KPL REZA\obj\Debug\net8.0\refint\tpmodul3_2311104062.dll
+C:\Users\Pongo\source\repos\TP Modul 3 KPL REZA\TP Modul 3 KPL REZA\obj\Debug\net8.0\tpmodul3_2311104062.pdb
+C:\Users\Pongo\source\repos\TP Modul 3 KPL REZA\TP Modul 3 KPL REZA\obj\Debug\net8.0\tpmodul3_2311104062.genruntimeconfig.cache
+C:\Users\Pongo\source\repos\TP Modul 3 KPL REZA\TP Modul 3 KPL REZA\obj\Debug\net8.0\ref\tpmodul3_2311104062.dll
